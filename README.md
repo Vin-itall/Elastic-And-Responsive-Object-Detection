@@ -2,6 +2,8 @@
 Object Detection Appllication Using AWS EC2(Cloud Computing) and Rpi(Edge Computing) 
 
 Architecture
+
+
 ![alt Architecture](https://github.com/Vin-itall/Elastic-And-Responsive-Object-Detection/blob/master/Architecture.JPG?raw=true)
 
 
