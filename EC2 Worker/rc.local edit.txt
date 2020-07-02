@@ -1,0 +1,6 @@
+#!/bin/bash
+Xvfb :1 & export DISPLAY=:1
+pip3 install boto3
+cd /home/ubuntu/darknet/
+python3 /home/ubuntu/darknet/slave.py
+exit 0
